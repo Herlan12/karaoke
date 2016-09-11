@@ -1,0 +1,196 @@
+ img.recent_thumb {padding:1px;width:100px;height:100px;border:0; float:right;margin:0 0 5px 10px;}
+.recent_posts_with_thumbs {float: left;width:98%;min-height: 70px;margin: 5px 2px 5px 2px;padding: 0;font-size:12px; border-bottom:2px solid }ol.recent_posts_with_thumbs li { padding-bottom:5px; padding-top:5px; padding-right:5px; padding-left:10px; min-height:110px; border-bottom:solid 2px #816041; border-top:solid 2px #816041; border-left:solid 2px #816041; border-right:solid 2px #816041; }.recent_posts_with_thumbs a {text-decoration:none;}.recent_posts_with_thumbs strong {font-size:10px;} 
+
+.TabbedPanels {
+	margin: 0px;
+	padding: 0px;
+	float: left;
+	width: 85%; /* IE Hack to force proper layout when preceded by a paragraph. (hasLayout Bug)*/
+	border-top-right-radius :10px;
+	border-top-left-radius :10px;
+	background: -moz-linear-gradient(90deg, #614A32 0%, #C29565 50%, #614A32 100%); /* ff3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #614A32), color-stop(50%, #C29565), color-stop(100%, #614A32)); /* safari4+,chrome */
+	background: -webkit-linear-gradient(90deg, #614A32 0%, #C29565 50%, #614A32 100%); /* safari5.1+,chrome10+ */
+	background: -o-linear-gradient(90deg, #614A32 0%, #C29565 50%, #614A32 100%); /* opera 11.10+ */
+	background: -ms-linear-gradient(90deg, #614A32 0%, #C29565 50%, #614A32 100%); /* ie10+ */
+	background: linear-gradient(0deg, #614A32 0%, #C29565 50%, #614A32 100%); /* w3c */
+
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#614A32', endColorstr='#614A32',GradientType=0 ); /* ie6-9 */
+	height: 29px;
+}
+.badan {
+	width: auto;
+	-moz-border-radius: 20px;
+	-webkit-border-radius: 20px;
+	border-radius: 20px;
+	/*IE 7 AND 8 DO NOT SUPPORT BORDER RADIUS*/
+-moz-box-shadow: inset 0px 0px 13px 5px #643204;
+	-webkit-box-shadow: inset 0px 0px 13px 5px #643204;
+	box-shadow: inset 0px 0px 13px 5px #643204;
+	
+	height: 380px;
+	padding: 8px;
+}
+
+
+.TabbedPanelsTabGroup {
+	margin: 0px;
+	padding: 0px;
+}
+
+
+.TabbedPanelsTab {
+	position: relative;
+	top: 1px;
+	float: left;
+	padding: 4px 10px;
+	font: bold 0.7em sans-serif;
+	background-color: #3F2101;
+	list-style: none;
+	border-left: solid 1px #CCC;
+	border-top: solid 1px #999;
+	border-right: solid 1px #999;
+	-moz-user-select: none;
+	-khtml-user-select: none;
+	margin-top: 5px;
+	margin-left: 2px;
+	margin-right: 2px;
+	color: #FFF;
+	border-top-right-radius :5px;
+	border-top-left-radius :5px;
+}
+
+
+.TabbedPanelsTabHover {
+	background-color: #5C4625;
+}
+
+
+.TabbedPanelsTabSelected {
+	background-color: #FFF;
+	color: #333;
+}
+
+
+.TabbedPanelsTab a {
+	color: black;
+	text-decoration: none;
+}
+
+
+.TabbedPanelsContentGroup {
+	clear: both;
+	height: 350px;
+	overflow: auto;
+	padding-left: 1px;
+}
+
+
+.TabbedPanelsContent {
+	padding: 4px;
+}
+
+
+.VTabbedPanels .TabbedPanelsTabGroup {
+	float: left;
+	width: 10em;
+	height: 20em;
+	background-color: #EEE;
+	position: relative;
+	border-top: solid 1px #999;
+	border-right: solid 1px #999;
+	border-left: solid 1px #CCC;
+	border-bottom: solid 1px #CCC;
+}
+
+
+.VTabbedPanels .TabbedPanelsTab {
+	float: none;
+	margin: 0px;
+	border-top: none;
+	border-left: none;
+	border-right: none;
+}
+
+
+.VTabbedPanels .TabbedPanelsTabSelected {
+	background-color: #FFFFFF;
+	border-bottom: solid 1px #999;
+}
+
+
+.VTabbedPanels .TabbedPanelsContentGroup {
+	clear: none;
+	float: left;
+	padding: 0px;
+	width: 30em;
+	height: 20em;
+}
+/* Batas tab merah*/
+
+.TabbedPanels2{
+	margin: 0px;
+	padding: 0px;
+	float: left;
+	width: 85%; border-top-right-radius :10px;
+	border-top-left-radius :10px;
+    background: -moz-linear-gradient(90deg, #003333 0%, #05C1FF 50%, #003333 100%); /* ff3.6+ */
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #003333), color-stop(50%, #05C1FF), color-stop(100%, #003333)); /* safari4+,chrome */
+    background: -webkit-linear-gradient(90deg, #003333 0%, #05C1FF 50%, #003333 100%); /* safari5.1+,chrome10+ */
+    background: -o-linear-gradient(90deg, #003333 0%, #05C1FF 50%, #003333 100%); /* opera 11.10+ */
+    background: -ms-linear-gradient(90deg, #003333 0%, #05C1FF 50%, #003333 100%); /* ie10+ */
+    background: linear-gradient(0deg, #003333 0%, #05C1FF 50%, #003333 100%); /* w3c */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#003333', endColorstr='#003333',GradientType=0 ); /* ie6-9 */
+	height: 29px;
+}
+.badan2 {
+	width: auto;
+	-moz-border-radius: 20px;
+	-webkit-border-radius: 20px;
+	border-radius: 20px;
+	/*IE 7 AND 8 DO NOT SUPPORT BORDER RADIUS*/
+-moz-box-shadow: inset 0px 0px 8px #05c1ff;
+	-webkit-box-shadow: inset 0px 0px 8px #05c1ff;
+	box-shadow: inset 0px 0px 8px #05c1ff;
+	/*Inner elements should not cover inner shadows*/
+/*Chrome renders inset shadows incorrectly with border-radius*/
+/*IE 7 AND 8 DO NOT SUPPORT INSET SHADOWS*/
+
+height: 380px;
+	padding: 8px;
+}
+.TabbedPanelsContentGroup2 {
+	clear: both;
+	border-left: solid 1px #CCC;
+	border-bottom: solid 1px #CCC;
+	border-right: solid 1px #999;
+	background-color: #FFF;
+	height: 150px;
+}
+.TabbedPanels2Tab {
+	position: relative;
+	top: 1px;
+	float: left;
+	padding: 4px 10px;
+	font: bold 0.7em sans-serif;
+	background-color: #0C0;
+	list-style: none;
+	border-left: solid 1px #CCC;
+	border-top: solid 1px #999;
+	border-right: solid 1px #999;
+	-moz-user-select: none;
+	-khtml-user-select: none;
+	margin-top: 5px;
+	margin-left: 5px;
+	margin-right: 5px;
+	color: #FFF;
+	border-top-right-radius :5px;
+	border-top-left-radius :5px;
+}
+.TabbedPanelsTabSelected {
+	background-color: #FFFFFF;
+	color: #333;
+}
+.TabbedPanels2Tab:hover {
+	background-color: #0FF;
+}
