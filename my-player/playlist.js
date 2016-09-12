@@ -112,6 +112,90 @@ $(document).ready(function(){
 			m4v: "https://docs.google.com/uc?export=download&id=0B5nAHiC-ar7acHJyY0JoV1RIVE0",
 			poster: "http://1.bp.blogspot.com/-oZYu6dwA-TM/V9JQ53m9B0I/AAAAAAAADh4/oDCW0hAlN-05esv2n_M6b6GWQPd1MYRQwCK4B/s1600/player%2Bcopy.jpg"
 		},
+		{
+			title:"Bing",
+			artist:"Grace Simon ",
+			m4v: "https://docs.google.com/uc?export=download&id=0B5nAHiC-ar7aWHp5ZG1yZUQwSVE",
+			poster: "http://1.bp.blogspot.com/-oZYu6dwA-TM/V9JQ53m9B0I/AAAAAAAADh4/oDCW0hAlN-05esv2n_M6b6GWQPd1MYRQwCK4B/s1600/player%2Bcopy.jpg"
+		},
+		{
+			title:"Bunga Sedap Malam",
+			artist:"Iis Sugianto",
+			m4v: "https://docs.google.com/uc?export=download&id=0B5nAHiC-ar7aM2RIMTh3dG9Kc1k",
+			poster: "http://1.bp.blogspot.com/-oZYu6dwA-TM/V9JQ53m9B0I/AAAAAAAADh4/oDCW0hAlN-05esv2n_M6b6GWQPd1MYRQwCK4B/s1600/player%2Bcopy.jpg"
+		},
+		{
+			title:"Keinginan",
+			artist:"Indra Lesmana feat Sophia Latjuba",
+			m4v: "https://docs.google.com/uc?export=download&id=0B5nAHiC-ar7aLUoxZmM4TzZJQW8",
+			poster: "http://1.bp.blogspot.com/-oZYu6dwA-TM/V9JQ53m9B0I/AAAAAAAADh4/oDCW0hAlN-05esv2n_M6b6GWQPd1MYRQwCK4B/s1600/player%2Bcopy.jpg"
+		},
+		{
+			title:"Yang Kunanti",
+			artist:"Inka Christie",
+			m4v: "https://docs.google.com/uc?export=download&id=0B5nAHiC-ar7aanlJRnpMLVpmLWs",
+			poster: "http://1.bp.blogspot.com/-oZYu6dwA-TM/V9JQ53m9B0I/AAAAAAAADh4/oDCW0hAlN-05esv2n_M6b6GWQPd1MYRQwCK4B/s1600/player%2Bcopy.jpg"
+		},
+		{
+			title:"Nona",
+			artist:"Iwan Fals",
+			m4v: "https://docs.google.com/uc?export=download&id=0B5nAHiC-ar7adFNtWXF6TkZMSEE",
+			poster: "http://1.bp.blogspot.com/-oZYu6dwA-TM/V9JQ53m9B0I/AAAAAAAADh4/oDCW0hAlN-05esv2n_M6b6GWQPd1MYRQwCK4B/s1600/player%2Bcopy.jpg"
+		},
+		{
+			title:"Terlalu",
+			artist:"Kirey",
+			m4v: "https://docs.google.com/uc?export=download&id=0B5nAHiC-ar7aRk5yZHNYdFYwVFk",
+			poster: "http://1.bp.blogspot.com/-oZYu6dwA-TM/V9JQ53m9B0I/AAAAAAAADh4/oDCW0hAlN-05esv2n_M6b6GWQPd1MYRQwCK4B/s1600/player%2Bcopy.jpg"
+		},
+		{
+			title:"Nusantara I",
+			artist:"Koesplus",
+			m4v: "https://docs.google.com/uc?export=download&id=0B5nAHiC-ar7aUEk5TlFramJyN3M",
+			poster: "http://1.bp.blogspot.com/-oZYu6dwA-TM/V9JQ53m9B0I/AAAAAAAADh4/oDCW0hAlN-05esv2n_M6b6GWQPd1MYRQwCK4B/s1600/player%2Bcopy.jpg"
+		},
+		{
+			title:"Mungkinkah",
+			artist:"Krisbiantoro",
+			m4v: "https://docs.google.com/uc?export=download&id=0B5nAHiC-ar7aN3ZXZG1pQ29MbDA",
+			poster: "http://1.bp.blogspot.com/-oZYu6dwA-TM/V9JQ53m9B0I/AAAAAAAADh4/oDCW0hAlN-05esv2n_M6b6GWQPd1MYRQwCK4B/s1600/player%2Bcopy.jpg"
+		},
+		{
+			title:"Melody Memory",
+			artist:"Lavenia",
+			m4v: "https://docs.google.com/uc?export=download&id=0B5nAHiC-ar7aTV8tY0swcWJ0Q00",
+			poster: "http://1.bp.blogspot.com/-oZYu6dwA-TM/V9JQ53m9B0I/AAAAAAAADh4/oDCW0hAlN-05esv2n_M6b6GWQPd1MYRQwCK4B/s1600/player%2Bcopy.jpg"
+		},
+		{
+			title:"Terserah Kasih",
+			artist:"Lisa A Riyanto",
+			m4v: "https://docs.google.com/uc?export=download&id=0B5nAHiC-ar7aNVZLT1ZRdnhJYWs",
+			poster: "http://1.bp.blogspot.com/-oZYu6dwA-TM/V9JQ53m9B0I/AAAAAAAADh4/oDCW0hAlN-05esv2n_M6b6GWQPd1MYRQwCK4B/s1600/player%2Bcopy.jpg"
+		},
+		{
+			title:"Cintanya Pramuria",
+			artist:"Loela Drakel",
+			m4v: "https://docs.google.com/uc?export=download&id=0B5nAHiC-ar7aQVJsUWJRa0d2azA",
+			poster: "http://1.bp.blogspot.com/-oZYu6dwA-TM/V9JQ53m9B0I/AAAAAAAADh4/oDCW0hAlN-05esv2n_M6b6GWQPd1MYRQwCK4B/s1600/player%2Bcopy.jpg"
+		},
+		{
+			title:"Tiada Lagi",
+			artist:"Mayangsari",
+			m4v: "https://docs.google.com/uc?export=download&id=0B5nAHiC-ar7aZWp4NjJyLUw1MVE",
+			poster: "http://1.bp.blogspot.com/-oZYu6dwA-TM/V9JQ53m9B0I/AAAAAAAADh4/oDCW0hAlN-05esv2n_M6b6GWQPd1MYRQwCK4B/s1600/player%2Bcopy.jpg"
+		},
+		{
+			title:"Janji Hati",
+			artist:"Memes",
+			m4v: "https://docs.google.com/uc?export=download&id=0B5nAHiC-ar7aZ2ZUc2hUTmZLd2c",
+			poster: "http://1.bp.blogspot.com/-oZYu6dwA-TM/V9JQ53m9B0I/AAAAAAAADh4/oDCW0hAlN-05esv2n_M6b6GWQPd1MYRQwCK4B/s1600/player%2Bcopy.jpg"
+		},
+		{
+			title:"Mulanya Biasa Saja",
+			artist:"Meriam Bellina",
+			m4v: "https://docs.google.com/uc?export=download&id=0B5nAHiC-ar7aNjJIb2lFLWt6VE0",
+			poster: "http://1.bp.blogspot.com/-oZYu6dwA-TM/V9JQ53m9B0I/AAAAAAAADh4/oDCW0hAlN-05esv2n_M6b6GWQPd1MYRQwCK4B/s1600/player%2Bcopy.jpg"
+		},
 	], {
 		swfPath: "../../dist/jplayer",
 		supplied: "webmv, ogv, m4v",
